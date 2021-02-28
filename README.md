@@ -11,7 +11,7 @@
 
 
 - ## Group 2
-- Implement the following root-finding algorithms: 
+Implement the following root-finding algorithms: 
 - Bracketing method
 - False position
 - Newton Raphson
